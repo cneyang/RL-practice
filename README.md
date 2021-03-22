@@ -1,6 +1,6 @@
 # RL-practice
-## Planning FrozenLake
-## Model-Free Taxi
-## DQN Pac-Man
-## Actor-Critic InvertedPendulumSwingBullet
-## Imitation Learning CartPole
+### 1. Planning FrozenLake
+### 2. Model-Free Taxi
+### 3. DQN Pac-Man
+### 4. Actor-Critic InvertedPendulumSwingBullet
+### 5. Imitation Learning CartPole
